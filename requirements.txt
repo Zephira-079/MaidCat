@@ -1,0 +1,4 @@
+pytube
+pyinstaller
+ffmpeg-python
+argparse
