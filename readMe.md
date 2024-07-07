@@ -1,4 +1,4 @@
-# MaidCat: A Personal YouTube Downloader
+# MaidCat: A Personal YouTube Downloader , version 0.0.0.1
 
 MaidCat is a command-line tool designed for downloading YouTube videos easily, either from a single URL or from multiple URLs listed in a text file.
 
